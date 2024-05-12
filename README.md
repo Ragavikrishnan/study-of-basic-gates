@@ -84,7 +84,8 @@ endmodule
 ![Screenshot 2024-04-09 090423](https://github.com/ZafreenJagir/study-of-basic-gates/assets/144870573/c2296ab1-214d-4849-a208-2ad0966b052b)
 
 **RTL realization Output:** 
-![Screenshot (141)](https://github.com/ZafreenJagir/study-of-basic-gates/assets/144870573/5fc5c5df-ead8-48f4-8b09-1d65daa59143)
+![Screenshot 2024-05-09 102148](https://github.com/ZafreenJagir/study-of-basic-gates/assets/144870428/a719507f-1187-45c9-854c-49f184a20e98)
+
 
 **RTL**
 ![Screenshot (140)](https://github.com/ZafreenJagir/study-of-basic-gates/assets/144870573/c3a32c64-2d92-42b2-b18c-87fd54d538f6)
